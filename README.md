@@ -133,3 +133,14 @@ npm run dev
 
 Darlin Mateo 
 Full Stack Developer in Progress 🚀
+
+## 📸 Screenshots
+
+### 🔐 Login
+![Login](login.png)
+
+### 📦 Products
+![Products](productos.png)
+
+### 🧾 Sales
+![Sales](ventas.png)
