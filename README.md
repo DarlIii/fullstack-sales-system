@@ -126,5 +126,5 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Darlin  
+Darlin Mateo 
 Full Stack Developer in Progress 🚀
