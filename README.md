@@ -139,6 +139,24 @@ Full Stack Developer in Progress 🚀
 ### 🔐 Login
 ![Login](login.png)
 
+## ✅ Technical Test Coverage
+
+### Backend (.NET + SQL Server)
+- [x] REST API with CRUD for Products, Clients, Categories
+- [x] Sales registration (Venta + Detalles) with stock update
+- [x] JWT Authentication (protected endpoints)
+- [x] Layered architecture (Controllers / Services / Repositories)
+- [x] Entity Framework Core + Migrations
+- [x] Unit Tests (xUnit + Moq)
+
+### Frontend (Vue + Axios)
+- [x] Admin panel UI
+- [x] Login + token storage
+- [x] Products CRUD
+- [x] Clients CRUD
+- [x] Sales registration + history view
+- [x] Responsive basic layout
+
 ### 📦 Products
 ![Products](productos.png)
 
