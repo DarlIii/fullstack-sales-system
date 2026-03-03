@@ -1,4 +1,9 @@
 # 🛒 Full Stack Sales System
+![.NET](https://img.shields.io/badge/.NET-9.0-purple)
+![Vue](https://img.shields.io/badge/Vue-3-green)
+![SQL Server](https://img.shields.io/badge/SQL-Server-red)
+![JWT](https://img.shields.io/badge/Auth-JWT-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Full Stack Sales Management System built with **.NET 9**, **SQL Server**, **Vue 3** and **JWT Authentication**.
 
